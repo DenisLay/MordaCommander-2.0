@@ -2,9 +2,9 @@
 
 #A simple file explorer like Total Commander
 
-#Download archive "MordaCommander 2.0.rar"(project there)
+#Download archive "MordaCommander 2.2.rar"(project there)
 
-#Functions: open files and folders, coping files/folders, moving files/folders, make directories, delete and changing local drives.
+#In version 2.2 you can: create/open/copy/move/delete files and folders and changing local drives. Program see even flash-drives or your phone.
 	
 	
 	
