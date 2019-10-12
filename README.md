@@ -4,7 +4,7 @@
 
 #Download archive "MordaCommander 2.0.rar"(project there)
 
-#Functions: view file system, local drive search and copy files(not folders)
+#Functions: open files and folders, coping files/folders, moving files/folders, make directories, delete and changing local drives.
 	
 	
 	
